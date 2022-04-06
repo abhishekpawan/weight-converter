@@ -4,10 +4,10 @@
 <div align="center">
     <img src="" alt="" width="75%">
 
-  <h3 align="center">Title of the project</h3>
+  <h3 align="center">Weight Converter</h3>
 
   <p align="center">
-    <a href="https://abhishekpawan.me/BookListApp/">View Demo</a> | <a href="https://github.com/abhishekpawan/BookListApp/issues">Report Bug</a>
+    <a href="https://abhishekpawan.me/BookListApp/">View Demo</a> | <a href="https://github.com/abhishekpawan/weight-converter/issues">Report Bug</a>
   </p>
 </div>
 
