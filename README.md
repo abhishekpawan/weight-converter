@@ -7,7 +7,7 @@
   <h3 align="center">Weight Converter</h3>
 
   <p align="center">
-    <a href="https://abhishekpawan.me/BookListApp/">View Demo</a> | <a href="https://github.com/abhishekpawan/weight-converter/issues">Report Bug</a>
+    <a href="https://abhishekpawan.me/weight-converter/">View Demo</a> | <a href="https://github.com/abhishekpawan/weight-converter/issues">Report Bug</a>
   </p>
 </div>
 
