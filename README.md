@@ -20,56 +20,24 @@
 
 screenshots
 
-discription
+a simple weight converter web app, which convert your entered weight(in kg) to pound, grams and ounces in real time.
 
-### Basic Functionality of this project:
-
-- any functionality
 
 ## 🏗️: Built With
 
 - HTML
 - Bootstrap
 - Javascript
-- xyz
-- abc
+- CSS
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-Any special instructions
-
-### Prerequisites
-
-- list the prerequisites ig=f have any.
-
-### Installation
-
-### Get a free API Key at [https://example.com](https://example.com)
+## Installation
 
 ### Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/abhishekpawan/weight-converter.git
    ```
-### To Install all the dependencies
-
-```
-npm install
-```
-### Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-### Start API
-
-```
-npm start
-```
-### More Instructions
-
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
